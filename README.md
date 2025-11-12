@@ -1,6 +1,3 @@
-"# GRU_based-Attack-Detection-in-CAN-and-LUT-Optimization" 
-
-"# GRU_based-Attack-Detection-in-CAN-and-LUT-Optimization" 
 
 ## Papers
 
